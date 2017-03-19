@@ -36,10 +36,13 @@ a:hover {
     animation: ease;
 }
 
-.ladi-img {
-  display: left;
-  border: 1px solid black;
-  border-radius: 10px;
+.header {
+    background-image: url("https://maryamckinnon.github.io/geometric-woman-runner.jpg");
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 200px;
+    background-position: left;
+    width: 25%;
 }
 
 h1 {
