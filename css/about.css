@@ -20,7 +20,9 @@ nav ul li, footer ul li {
 }
 
 li {
-    
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.0em;
+    color: #333;
 }
 
 li2 {
