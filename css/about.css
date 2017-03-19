@@ -39,7 +39,8 @@ a:hover {
 .header {
     background-image: url("https:/ladiositelu.github.io/ladi-ositelu.jpg");
     border-radius: 15px;
-    height: 150px;
+    border-color: black;
+    height: 300px;
     background-position: left;
     background-size: cover;
     width: 25%;
