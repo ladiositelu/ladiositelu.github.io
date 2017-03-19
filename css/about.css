@@ -36,6 +36,15 @@ a:hover {
     animation: ease;
 }
 
+.header {
+    background-image: url("https://maryamckinnon.github.io/ladi-ositelu.jpg");
+    border-radius: 15px;
+    height: 150px;
+    background-position: left;
+    background-size: cover;
+    width: 25%;
+}
+
 h1 {
     font-size: 3.0em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
