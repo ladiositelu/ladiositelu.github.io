@@ -17,6 +17,7 @@ nav ul li, footer ul li {
     padding: 14px;
     text-transform: uppercase;
     text-decoration: none;
+    text-align: center;
 }
 
 li {
